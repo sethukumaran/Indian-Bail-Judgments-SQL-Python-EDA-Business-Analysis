@@ -1,5 +1,4 @@
 -- Indian Bail Judgments: business-level SQL analysis
--- Dialect: SQLite-compatible SQL
 -- Load CSV into a table named bail_judgments before running.
 
 -- 1. Dataset profile

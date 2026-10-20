@@ -1,8 +1,6 @@
 """
 Indian Bail Judgments — EDA and Business Analysis
-Run:
-    python analysis.py --input "Indian-Bail-Judgments new.csv"
-Outputs PNG charts under outputs/
+
 """
 
 import argparse, os, re
